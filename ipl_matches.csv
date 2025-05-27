@@ -1,0 +1,11 @@
+Match_ID,Date,Team1,Team2,Winner,Runs_Team1,Runs_Team2,Wickets_Team1,Wickets_Team2,Player_of_Match,Venue,Season
+1,2022-03-26,CSK,KKR,KKR,131,133,5,4,Ajinkya Rahane,Wankhede Stadium,2022
+2,2022-03-27,DC,MI,DC,177,170,6,8,Lalit Yadav,Brabourne Stadium,2022
+3,2022-03-27,PBKS,RCB,PBKS,208,205,5,8,Odean Smith,DY Patil Stadium,2022
+4,2022-03-28,GT,LSG,GT,159,158,6,8,David Miller,Wankhede Stadium,2022
+5,2022-03-29,SRH,RR,RR,149,210,7,6,Sanju Samson,MCA Stadium,2022
+6,2023-04-01,CSK,MI,CSK,180,172,5,7,MS Dhoni,Chepauk,2023
+7,2023-04-02,RCB,KKR,RCB,200,180,6,8,Virat Kohli,Eden Gardens,2023
+8,2023-04-03,PBKS,DC,DC,190,191,6,7,David Warner,IS Bindra Stadium,2023
+9,2023-04-04,RR,LSG,RR,220,215,4,6,Jos Buttler,Sawai Mansingh Stadium,2023
+10,2024-04-05,MI,GT,MI,165,160,5,9,Suryakumar Yadav,Wankhede Stadium,2024

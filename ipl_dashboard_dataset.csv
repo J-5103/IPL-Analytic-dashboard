@@ -1,0 +1,48 @@
+Match_ID,Date,Team1,Team2,Winner,Runs_Team1,Runs_Team2,Wickets_Team1,Wickets_Team2,Player_of_Match,Venue,Season
+1,2022-03-26,Lucknow Super Giants,Rajasthan Royals,Punjab Kings,214,122,7,5,Suresh Raina,Sawai Mansingh Stadium,2024
+2,2022-03-27,Lucknow Super Giants,Gujarat Titans,Rajasthan Royals,151,246,9,8,Andre Russell,Arun Jaitley Stadium,2023
+3,2022-03-28,Lucknow Super Giants,Chennai Super Kings,Sunrisers Hyderabad,130,160,3,8,Andre Russell,Sawai Mansingh Stadium,2024
+4,2022-03-29,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,164,225,5,4,Suresh Raina,M. Chinnaswamy Stadium,2022
+5,2022-03-30,Rajasthan Royals,Lucknow Super Giants,Royal Challengers Bangalore,152,133,4,7,Andre Russell,Sawai Mansingh Stadium,2023
+6,2022-03-31,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,221,131,6,4,Rohit Sharma,M. A. Chidambaram Stadium,2023
+7,2022-04-01,Kolkata Knight Riders,Sunrisers Hyderabad,Rajasthan Royals,130,206,8,6,Shikhar Dhawan,Sawai Mansingh Stadium,2023
+8,2022-04-02,Punjab Kings,Mumbai Indians,Lucknow Super Giants,207,131,9,8,Andre Russell,Sawai Mansingh Stadium,2024
+9,2022-04-03,Punjab Kings,Kolkata Knight Riders,Delhi Capitals,160,144,4,3,Faf du Plessis,M. Chinnaswamy Stadium,2022
+10,2022-04-04,Delhi Capitals,Sunrisers Hyderabad,Punjab Kings,195,164,6,3,Virat Kohli,M. A. Chidambaram Stadium,2024
+11,2022-04-05,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,240,241,8,7,Virat Kohli,Narendra Modi Stadium,2024
+12,2022-04-06,Gujarat Titans,Chennai Super Kings,Royal Challengers Bangalore,165,174,8,6,KL Rahul,Wankhede Stadium,2023
+13,2022-04-07,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,199,219,4,5,Shikhar Dhawan,M. A. Chidambaram Stadium,2024
+14,2022-04-08,Sunrisers Hyderabad,Delhi Capitals,Rajasthan Royals,173,238,9,6,MS Dhoni,Wankhede Stadium,2024
+15,2022-04-09,Royal Challengers Bangalore,Lucknow Super Giants,Kolkata Knight Riders,205,172,7,3,Faf du Plessis,M. Chinnaswamy Stadium,2022
+16,2022-04-10,Lucknow Super Giants,Gujarat Titans,Punjab Kings,211,151,7,3,Rohit Sharma,M. A. Chidambaram Stadium,2024
+17,2022-04-11,Sunrisers Hyderabad,Royal Challengers Bangalore,Lucknow Super Giants,216,170,8,8,Faf du Plessis,Eden Gardens,2022
+18,2022-04-12,Chennai Super Kings,Sunrisers Hyderabad,Delhi Capitals,121,163,7,6,Suresh Raina,Arun Jaitley Stadium,2023
+19,2022-04-13,Lucknow Super Giants,Royal Challengers Bangalore,Rajasthan Royals,152,201,3,6,Shikhar Dhawan,Eden Gardens,2022
+20,2022-04-14,Kolkata Knight Riders,Royal Challengers Bangalore,Sunrisers Hyderabad,196,156,8,3,Suresh Raina,Eden Gardens,2022
+21,2022-04-15,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,235,215,8,5,Virat Kohli,M. Chinnaswamy Stadium,2023
+22,2022-04-16,Chennai Super Kings,Kolkata Knight Riders,Sunrisers Hyderabad,222,175,6,7,Rohit Sharma,Rajiv Gandhi International Cricket Stadium,2022
+23,2022-04-17,Chennai Super Kings,Kolkata Knight Riders,Rajasthan Royals,222,224,7,9,Virat Kohli,Sawai Mansingh Stadium,2022
+24,2022-04-18,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,209,178,9,7,David Warner,Arun Jaitley Stadium,2023
+26,2022-04-20,Sunrisers Hyderabad,Chennai Super Kings,Delhi Capitals,225,212,9,7,Andre Russell,Eden Gardens,2022
+29,2022-04-23,Rajasthan Royals,Kolkata Knight Riders,Royal Challengers Bangalore,223,168,4,6,Faf du Plessis,Rajiv Gandhi International Cricket Stadium,2023
+30,2022-04-24,Rajasthan Royals,Sunrisers Hyderabad,Gujarat Titans,180,213,9,6,Faf du Plessis,Wankhede Stadium,2024
+31,2022-04-25,Chennai Super Kings,Kolkata Knight Riders,Mumbai Indians,242,143,8,9,KL Rahul,Arun Jaitley Stadium,2022
+32,2022-04-26,Chennai Super Kings,Punjab Kings,Punjab Kings,128,156,3,9,Jasprit Bumrah,Sawai Mansingh Stadium,2024
+33,2022-04-27,Mumbai Indians,Chennai Super Kings,Delhi Capitals,125,123,5,8,Shikhar Dhawan,Rajiv Gandhi International Cricket Stadium,2023
+34,2022-04-28,Kolkata Knight Riders,Rajasthan Royals,Punjab Kings,192,227,3,6,Suresh Raina,Rajiv Gandhi International Cricket Stadium,2023
+35,2022-04-29,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,222,245,3,5,Jasprit Bumrah,Wankhede Stadium,2022
+36,2022-04-30,Rajasthan Royals,Delhi Capitals,Chennai Super Kings,160,139,6,7,Faf du Plessis,Arun Jaitley Stadium,2023
+37,2022-05-01,Kolkata Knight Riders,Punjab Kings,Sunrisers Hyderabad,233,169,4,6,Andre Russell,Arun Jaitley Stadium,2024
+38,2022-05-02,Chennai Super Kings,Lucknow Super Giants,Punjab Kings,127,215,5,4,MS Dhoni,Narendra Modi Stadium,2024
+39,2022-05-03,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,191,224,7,8,Shikhar Dhawan,M. A. Chidambaram Stadium,2024
+40,2022-05-04,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,211,236,7,4,Rohit Sharma,M. A. Chidambaram Stadium,2024
+41,2022-05-05,Royal Challengers Bangalore,Punjab Kings,Delhi Capitals,181,217,9,3,Jasprit Bumrah,Eden Gardens,2022
+42,2022-05-06,Sunrisers Hyderabad,Chennai Super Kings,Kolkata Knight Riders,203,185,3,9,Virat Kohli,M. Chinnaswamy Stadium,2024
+43,2022-05-07,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,181,198,6,7,David Warner,M. Chinnaswamy Stadium,2022
+44,2022-05-08,Gujarat Titans,Kolkata Knight Riders,Sunrisers Hyderabad,230,125,6,6,Suresh Raina,Arun Jaitley Stadium,2023
+45,2022-05-09,Gujarat Titans,Mumbai Indians,Sunrisers Hyderabad,246,158,7,4,Virat Kohli,Sawai Mansingh Stadium,2023
+46,2022-05-10,Gujarat Titans,Sunrisers Hyderabad,Chennai Super Kings,126,234,9,7,Virat Kohli,M. A. Chidambaram Stadium,2022
+47,2022-05-11,Sunrisers Hyderabad,Rajasthan Royals,Punjab Kings,203,244,9,3,MS Dhoni,Narendra Modi Stadium,2022
+48,2022-05-12,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,177,131,9,9,Shikhar Dhawan,Sawai Mansingh Stadium,2023
+49,2022-05-13,Mumbai Indians,Sunrisers Hyderabad,Punjab Kings,141,137,5,5,David Warner,M. Chinnaswamy Stadium,2023
+50,2022-05-14,Chennai Super Kings,Rajasthan Royals,Lucknow Super Giants,246,159,4,8,Shikhar Dhawan,Rajiv Gandhi International Cricket Stadium,2024
